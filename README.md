@@ -45,10 +45,8 @@ You can deploy this site using GitHub Pages, Netlify, or Vercel for a live portf
 ---
 
 Designed and developed by Yash Pandey.
-
-
-![Screenshot 2025-05-19 124643](https://github.com/user-attachments/assets/d96295a5-7f38-437c-9ae7-4704312e6d76)
-![Screenshot 2025-05-19 124701](https://github.com/user-attachments/assets/c6ecedb4-3529-47fc-9a3a-440f9556a459)
-![Screenshot 2025-05-19 124713](https://github.com/user-attachments/assets/b082d64a-b9be-4cd4-97ff-b08f4085f6ff)
-![Screenshot 2025-05-19 124728](https://github.com/user-attachments/assets/42b05f31-2bba-49db-b24d-082bc7351cb4)
-![Screenshot 2025-05-19 124623](https://github.com/user-attachments/assets/b325c374-a21f-4790-b9a0-dd4ce33154db)
+![s1 (1)](https://github.com/user-attachments/assets/2637ac41-8834-4b88-92b6-075530f32161)
+![s1 (2)](https://github.com/user-attachments/assets/6d6a5ed4-9728-4728-8d64-7908d14ebc89)
+![s1 (3)](https://github.com/user-attachments/assets/48953e8a-66a8-4ae8-9c8b-bed951c326e3)
+![s1 (4)](https://github.com/user-attachments/assets/406a1cf1-1063-4d08-919e-875b31aa733b)
+![s1 (5)](https://github.com/user-attachments/assets/cba4ad1f-9deb-434e-b241-dc81756f4538)
